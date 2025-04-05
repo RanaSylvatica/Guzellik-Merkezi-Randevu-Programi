@@ -1,0 +1,36 @@
+C:\Users\Asus\source\repos\ndpproje\ndpproje\obj\Debug\net8.0-windows\ndpproje.musteriGirisi.resources
+C:\Users\Asus\source\repos\ndpproje\ndpproje\obj\Debug\net8.0-windows\ndpproje.personelGirisi.resources
+C:\Users\Asus\source\repos\ndpproje\ndpproje\obj\Debug\net8.0-windows\ndpproje.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\ndpproje\ndpproje\obj\Debug\net8.0-windows\ndpproje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\ndpproje\ndpproje\obj\Debug\net8.0-windows\ndpproje.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ndpproje\ndpproje\obj\Debug\net8.0-windows\ndpproje.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ndpproje\ndpproje\obj\Debug\net8.0-windows\ndpproje.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ndpproje\ndpproje\bin\Debug\net8.0-windows\ndpproje.exe
+C:\Users\Asus\source\repos\ndpproje\ndpproje\bin\Debug\net8.0-windows\ndpproje.deps.json
+C:\Users\Asus\source\repos\ndpproje\ndpproje\bin\Debug\net8.0-windows\ndpproje.runtimeconfig.json
+C:\Users\Asus\source\repos\ndpproje\ndpproje\bin\Debug\net8.0-windows\ndpproje.dll
+C:\Users\Asus\source\repos\ndpproje\ndpproje\bin\Debug\net8.0-windows\ndpproje.pdb
+C:\Users\Asus\source\repos\ndpproje\ndpproje\obj\Debug\net8.0-windows\ndpproje.dll
+C:\Users\Asus\source\repos\ndpproje\ndpproje\obj\Debug\net8.0-windows\refint\ndpproje.dll
+C:\Users\Asus\source\repos\ndpproje\ndpproje\obj\Debug\net8.0-windows\ndpproje.pdb
+C:\Users\Asus\source\repos\ndpproje\ndpproje\obj\Debug\net8.0-windows\ndpproje.genruntimeconfig.cache
+C:\Users\Asus\source\repos\ndpproje\ndpproje\obj\Debug\net8.0-windows\ref\ndpproje.dll
+C:\Users\Asus\source\repos\ndpproje\ndpproje\obj\Debug\net8.0-windows\ndpproje.Giris.resources
+C:\Users\Asus\Downloads\NDP Projesi\NDP Projesi\ndpproje\ndpproje\bin\Debug\net8.0-windows\ndpproje.exe
+C:\Users\Asus\Downloads\NDP Projesi\NDP Projesi\ndpproje\ndpproje\bin\Debug\net8.0-windows\ndpproje.deps.json
+C:\Users\Asus\Downloads\NDP Projesi\NDP Projesi\ndpproje\ndpproje\bin\Debug\net8.0-windows\ndpproje.runtimeconfig.json
+C:\Users\Asus\Downloads\NDP Projesi\NDP Projesi\ndpproje\ndpproje\bin\Debug\net8.0-windows\ndpproje.dll
+C:\Users\Asus\Downloads\NDP Projesi\NDP Projesi\ndpproje\ndpproje\bin\Debug\net8.0-windows\ndpproje.pdb
+C:\Users\Asus\Downloads\NDP Projesi\NDP Projesi\ndpproje\ndpproje\obj\Debug\net8.0-windows\ndpproje.Giris.resources
+C:\Users\Asus\Downloads\NDP Projesi\NDP Projesi\ndpproje\ndpproje\obj\Debug\net8.0-windows\ndpproje.musteriGirisi.resources
+C:\Users\Asus\Downloads\NDP Projesi\NDP Projesi\ndpproje\ndpproje\obj\Debug\net8.0-windows\ndpproje.personelGirisi.resources
+C:\Users\Asus\Downloads\NDP Projesi\NDP Projesi\ndpproje\ndpproje\obj\Debug\net8.0-windows\ndpproje.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\NDP Projesi\NDP Projesi\ndpproje\ndpproje\obj\Debug\net8.0-windows\ndpproje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Downloads\NDP Projesi\NDP Projesi\ndpproje\ndpproje\obj\Debug\net8.0-windows\ndpproje.AssemblyInfoInputs.cache
+C:\Users\Asus\Downloads\NDP Projesi\NDP Projesi\ndpproje\ndpproje\obj\Debug\net8.0-windows\ndpproje.AssemblyInfo.cs
+C:\Users\Asus\Downloads\NDP Projesi\NDP Projesi\ndpproje\ndpproje\obj\Debug\net8.0-windows\ndpproje.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\NDP Projesi\NDP Projesi\ndpproje\ndpproje\obj\Debug\net8.0-windows\ndpproje.dll
+C:\Users\Asus\Downloads\NDP Projesi\NDP Projesi\ndpproje\ndpproje\obj\Debug\net8.0-windows\refint\ndpproje.dll
+C:\Users\Asus\Downloads\NDP Projesi\NDP Projesi\ndpproje\ndpproje\obj\Debug\net8.0-windows\ndpproje.pdb
+C:\Users\Asus\Downloads\NDP Projesi\NDP Projesi\ndpproje\ndpproje\obj\Debug\net8.0-windows\ndpproje.genruntimeconfig.cache
+C:\Users\Asus\Downloads\NDP Projesi\NDP Projesi\ndpproje\ndpproje\obj\Debug\net8.0-windows\ref\ndpproje.dll
